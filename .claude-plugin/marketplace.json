@@ -1,6 +1,6 @@
 {
-  "name": "Geeek",
-  "owner": "Ludovic Toinel",
+  "name": "ltoinel-plugins",
+  "owner":  { "name": "ltoinel" },
   "plugins": [
     {
       "name": "ghost",
