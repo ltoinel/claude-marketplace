@@ -1,11 +1,10 @@
 {
-  "name": "Ludovic Toinel's Plugin Collection",
+  "name": "ltoinel",
   "owner":  { "name": "ltoinel" },
   "plugins": [
     {
       "name": "ghost",
       "description": "Read from and publish to a Ghost CMS blog via the Admin API.",
-      "version": "0.1.0",
       "source": { "type": "github", "repo": "ltoinel/ghost-plugin" }
     }
   ]
