@@ -1,0 +1,10 @@
+{
+  "name": "Geeek",
+  "owner": "Ludovic Toinel",
+  "plugins": [
+    {
+      "name": "ghost",
+      "source": { "source": "github", "repo": "ltoinel/ghost-plugin" }
+    }
+  ]
+}
